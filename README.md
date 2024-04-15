@@ -1,31 +1,24 @@
-# OJ-Solutions
+# Programming problem solutions.
 
-This package contains my solutions to the programming problems in different online-judges.
+Please find below a list of platforms that I have tried:
 
-Here is a list of platforms that i have tried:
-
-- [x] [**UVa OJ**](https://uva.onlinejudge.org/)
-- [x] [**Project Euler**](https://projecteuler.net/)
-- [x] [**Codeforces**](http://codeforces.com/)
 - [x] [**LeetCode**](https://leetcode.com/)
+- [x] [**Codeforces**](http://codeforces.com/)
 - [x] [**Hacker Rank**](http://hackerrank.com/)
 - [x] [**Hacker Earth**](https://www.hackerearth.com/)
-- [x] [**Light OJ**](http://lightoj.com/index.php)
-- [x] [**SPOJ**](https://www.spoj.com/)
-- [x] [**URI**](https://www.urionlinejudge.com.br/judge/en)
 
-The solutions are mostly programmed with `C`, `C++`, `Java` and `Python`.
+The solutions are mostly programmed with `C`, `C++`, `Javascript` and `Python`.
 
 #### Warning!!!
 
-This code is provided for reference only.  
-I strongly suggest you to attempt a problem sincerely before looking at it's solution.  
-You can freely use these code but at your own risk. I cannot be held guilty for any damage done to your property.  
+This code is meant for you to refer to.  
+I think you should try to solve a problem before looking at its solution.  
+Just to let you know, while you are welcome to use the provided codes, it is important to understand that doing so comes with inherent risks. So, any damage caused to your property as a result of using these codes is entirely your responsibility and I cannot be held accountable for these damages. Please proceed with caution and use at your discretion.  
 .  
 .  
 Happy Coding... :)
 
 #### Authors
 
-**[Biprodas Roy](https://www.linkedin.com/in/biprodas-roy-940039172/)**  
- `Dept of CSE, JUST.`
+**[Masud Pervez](https://www.linkedin.com/in/masud-pervez-/)**  
+ `Dept of CSE, EUB.`
